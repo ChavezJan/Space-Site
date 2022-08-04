@@ -1,0 +1,27 @@
+/*
+
+Colors
+    - #0b0d17
+    - #d0d6f9
+    - #ffffff
+
+Styles
+    - Heading 1 - Bellefair Regular - 150px
+    - Heading 2 - Bellefair Regular - 100px
+    - Heading 3 - Bellefair Regular - 56px
+    - Heading 4 - Bellefair Regular - 32px
+    - Heading 5 - Barlow Condensed Regular - 28px - 4.75 Character Space
+    - Subheading 1 - Bellefair Regular - 28px
+    - Subheading 2 - Barlow Condensed Regular - 14px - 2.35 Character Space
+    - Nav Text - Barlow Condensed Regular - 16px - 2.7 Character Spaceb
+
+*/
+
+
+body {
+    background-color: #0b0d17;
+}
+
+p {
+    color: #ffffff;
+}
